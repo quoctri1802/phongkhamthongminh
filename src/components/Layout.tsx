@@ -68,3 +68,4 @@ const Layout = () => {
         <footer style={{ textAlign: 'center', padding: '16px', fontSize: '0.85rem', color: 'var(--text-muted)' }}>
           Built and developed by TRITNQ
         </footer>
+export default Layout;
